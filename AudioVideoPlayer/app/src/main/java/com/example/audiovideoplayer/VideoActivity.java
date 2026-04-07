@@ -15,8 +15,7 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.content.Intent;
 
-// https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.
-//mp4
+// https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4
 // https://www.learningcontainer.com/download/sample-video-download-mp4/?wpdmdl=8745&refresh=69d1d87b0c3ce1775360123
 // https://jsoncompare.org/LearningContainer/SampleFiles/Video/MP4/Sample-MP4-Video-File-for-Testing.mp4
 public class VideoActivity extends AppCompatActivity {
